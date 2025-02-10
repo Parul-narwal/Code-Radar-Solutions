@@ -1,0 +1,1 @@
+kallu bsdk randi hai iski dadi bhai achi the dad be par ya gandwa pta nhi kaha sa chut ka baal bkl chuchi ka baal bhenchod inn jais  ko rnadi be bha nhi deti bolti hai nikal lavda dikho tri maa ko eandirrn f,jewlje,mgnfmnvjjbspr''
