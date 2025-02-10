@@ -1,1 +1,15 @@
-kallu bsdk randi hai iski dadi bhai achi the dad be par ya gandwa pta nhi kaha sa chut ka baal bkl chuchi ka baal bhenchod inn jais  ko rnadi be bha nhi deti bolti hai nikal lavda dikho tri maa ko eandirrn f,jewlje,mgnfmnvjjbspr''
+.#include <stdio.h>
+int main()
+{
+    int i,j,rows;
+    scanf("%d",&rows);
+    for(i=1;i<=rows;i++)
+    {
+        for(j=1;j<=i;j++)
+        {
+            printf("* ");
+        }
+        printf("\n");
+    }
+    return 0;
+}
